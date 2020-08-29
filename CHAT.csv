@@ -1,0 +1,324 @@
+  Víctor Gómez de la Cruz:hi
+  Víctor Gómez de la Cruz:we just finished
+  Mónica Azcue:hi
+  Sophie Monga:hi
+  Shreyas Mehra:Hello
+  Marta García :hello
+  Irene González:hi
+  Araceli Loreto Pfeiffer:hello
+  Natalia Anna Nowak:gooood
+  Víctor Gómez de la Cruz:hello
+  Sophie Monga:good
+  Víctor Gómez de la Cruz:fine
+  Jose Javier Iglesias:hi
+  Natalia Anna Nowak:final presentations
+  Omar-Amine Farih:hello
+  Isabel Ordovás:hello
+  Tom Juan Fréreux-Sanchez:hello
+  Sophie Monga:no
+  Víctor Gómez de la Cruz:what?
+  Natalia Anna Nowak:whereee
+  Sophie Monga:what is it?
+  Natalia Caceres:where is it?
+  Maria Gabriela Rey:hello
+  Natalia Anna Nowak:i can't see it
+  Víctor Gómez de la Cruz:how is it called?
+  Etienne David Michel:hello
+  Patricia Cano:hello
+  Víctor Gómez de la Cruz:yes
+  Sophie Monga:yes we see
+  Irene González:yes
+  Natalia Anna Nowak:yes
+  Isabella Ochoa:yes
+  Mónica Azcue:yes
+  Natalia Caceres:we can see it
+  Etienne David Michel:we see it
+  Natalia Anna Nowak:so like that?
+  Natalia Anna Nowak:what i just did?
+  Tom Juan Fréreux-Sanchez:I'm here
+  Maria Gabriela Rey:im here
+  Etienne David Michel:I'm here
+  Sofía Ambrosi:i´m here
+  Alexandre Ucchino:how do u write in it ?
+  Mónica Azcue:like that is done
+  Carlos Rafael González:wait how do you write in there?
+  Mónica Azcue:??
+  Jose Javier Iglesias:im here
+  Patricia Cano:one thing is the project for to,orrow right?
+  Patricia Cano:tomorrow*
+  Sophie Monga:click on the icon with only one person
+  Víctor Gómez de la Cruz:Pablo is saying that he can`t enter the class
+  Pablo Rafael Khouri:im here
+  Maria Gabriela Rey:yes
+  Anshumaan Ravi:yes
+  Irene González:yes
+  Marta García  2:yes
+  Isabella Ochoa:yes
+  HST Host10:IT Support it@ie.edu +34 91 568 96 23
+  Anand Marie Francois Delaporte:Hello
+  Greta  Ynglada:hello
+  Pablo Rafael Khouri:hello
+  Marcos Garcia:no
+  Javier Elena:no
+  Isabella Ochoa:I dont think so
+  Anshumaan Ravi:no
+  Irene González:no
+  Alejandro Felip:no
+  Etienne David Michel:no
+  Pablo Rafael Khouri:this is exactly what happened to me during the midterm
+  Anshumaan Ravi:No
+  Isabella Ochoa:can you say another example?
+  Isabel Ordovás:no
+  Etienne David Michel:no
+  Pablo Rafael Khouri:For the midterm
+  Pablo Rafael Khouri:i study some topics very hard
+  Pablo Rafael Khouri:okk thanks Alex!
+  Isabella Ochoa:yess
+  Mónica Azcue:sorry when are you going to upload the grades
+  Mónica Azcue:?
+  Araceli Loreto Pfeiffer:okn thank you
+  Anshumaan Ravi:Could you repeat that once again alex
+  Anshumaan Ravi:This slide
+  Anshumaan Ravi:yes
+  Anshumaan Ravi:By alpha and beta, you refer to the errors or some parameters?
+  Anshumaan Ravi:type 1 and type 2 errors right?
+  Anshumaan Ravi:Oh okay okay
+  Juan Soliveres:b0 and b1
+  Abdul  Salam :beta 1 and 2
+  Anshumaan Ravi:Yeah i got confused
+  Anshumaan Ravi:thanks
+  Isabella Ochoa:yes
+  Carlos Rafael González:yes please haha
+  Anshumaan Ravi:Yes please
+  Maria Gabriela Rey:Yes please
+  Irene González:yes
+  Juan Soliveres:which folder it was?
+  Araceli Loreto Pfeiffer:
+  Jose Javier Iglesias:for normal distribuition
+  Alexandre Ucchino:you are asking what does rnorm do here ?
+  Alexandre Ucchino:it's creating a normal distreibution with the numbers of rows of the data
+  Jose Javier Iglesias:because then we cant do cross validation if it isnt normal distribuition
+  Isabella Ochoa:does it standarize it?
+  Anshumaan Ravi:why do we use rnorm(nrow(data))?
+  Abdul  Salam :but why rnorm
+  Pablo Rafael Khouri:smart
+  Anshumaan Ravi:and we are doing this to assign which data goes to which set right?
+  Anshumaan Ravi:okay thanks
+  Anshumaan Ravi:ding
+  Jose Javier Iglesias:I dont understand, can it be explained more simple
+  Juan Soliveres:you take random sumbers from the dataset
+  Juan Soliveres:I think
+  Jose Javier Iglesias:alright hahah yes I think so
+  Jose Javier Iglesias:thanks
+  Alexandre Ucchino:why do you multiply 0.8 * the number of rows though
+  Natalia Anna Nowak:yeah exactly^
+  Pablo Rafael Khouri:because is a train set
+  Pablo Rafael Khouri:train set are 75-80
+  Alexandre Ucchino:ok
+  Alexandre Ucchino:ok
+  Pablo Rafael Khouri:trainset are 80% of a complete set so 0.8x ....
+  Juan Soliveres:mamba mentalty
+  Pablo Rafael Khouri:Alex i have a question
+  Natalia Anna Nowak:and how do we know that this is the 80% that represents trainset?
+  Pablo Rafael Khouri:what can we interpret from the results 160 4 40 4?
+  Natalia Anna Nowak:sorry i didnt see previous slide
+  Pablo Rafael Khouri:oh ok thanks
+  Jose Javier Iglesias:Could we plot that in a normal curve?
+  Jose Javier Iglesias:the 160 and de 40
+  Jose Javier Iglesias:ok ok, thanks
+  Pablo Rafael Khouri:so we have 160 observations in 4 columns?
+  Carlos Rafael González:can you explain again what as.numeric does?
+  Carlos Rafael González:ohh ok
+  Maria Gabriela Rey:So we can just decide if we want 80% in the first observations or 75% ?
+  Anshumaan Ravi:alex i have  a question
+  Anshumaan Ravi:can i switch on my mic
+  Anshumaan Ravi:?
+"  Alexandre Ucchino:so the value ""1"" will be converted in 1"
+"  Alexandre Ucchino:""xqcug"" will be converted into an NA"
+  Juan Soliveres:why the numbers are different?
+  Anshumaan Ravi:okay thanks
+  Juan Soliveres:ok thanks
+  Maria Gabriela Rey:162 is 81
+  Maria Gabriela Rey:ohh okay thank you
+  Alexandre Ucchino:could you re explain quickly the loocv method
+  Marta García :so you have to do the model a lot of times no ?
+  Isabella Ochoa:Do we have to export any library?
+  Alexandre Ucchino:but what is the point of doing that
+  Marta García :thats very time consuming
+  Pablo Rafael Khouri:indeed Marta
+  Alejandro Martinez 2:caret
+  Isabella Ochoa:thank you
+  Anshumaan Ravi:what is the min number of data points required for accurate LOOCV?
+  Pablo Rafael Khouri:so testing the model with the LOOCV method is more accurate than with 70% sample size?
+  Anshumaan Ravi:okay
+  Anshumaan Ravi:thanks
+  Pablo Rafael Khouri:Can you give an example of a test error rate in a real life experiment? i dont get this term
+  Anshumaan Ravi:Alex, can you please explain how using the k fold will reduce bias?
+  Etienne David Michel:yes
+  Tom Juan Fréreux-Sanchez:yes
+  Isabella Ochoa:yes
+  Carlos Rafael González:Can you show again the q and a s i can check my attendance?
+  Greta  Ynglada:yes
+  Irene González:yes
+  Marta García :perf
+  Maria Gabriela Rey:yes
+  Natalia Anna Nowak:can you make it visible
+  Shreyas Mehra:im here
+  Araceli Loreto Pfeiffer:i am here
+  Goncalo Melo:here
+  Sophie Monga:here
+  Isabel Ordovás:here
+  Juan Soliveres:here
+  Maria Gabriela Rey:hello
+  Natalia Anna Nowak:idk if i answered it correctly
+  Patricia Cano:i don't know if I answered
+  Juan Soliveres:same
+  Marcos Garcia:Me too
+  Marcos Garcia:DId I answer
+  Mónica Azcue:ni yo
+  Natalia Anna Nowak:ugh idk how it works, i wrote the answer in every possible window i could haha
+  Patricia Cano:well I was here because in the beginning of the class I asked you about presentations
+  Mónica Azcue:i think i did it right
+  Natalia Caceres:can you see my answer?
+  Patricia Cano:yes I thought that I did it
+  Marcos Garcia:How can I write there??
+  Isabel Ordovás:can u see mine?
+  Pablo Rafael Khouri:can u see mine?
+  Víctor Gómez de la Cruz:can u see mine??
+  Irene González:Maybe you can say the ones that have answer the Q&A
+  Irene González:so we can check if our answers are there
+  Pablo Rafael Khouri:im not sure how to answer
+  Natalia Anna Nowak:can you show on your computer how to answer
+  Shreyas Mehra:Even I put my name there but it isnt showing
+  Marcos Garcia:yes
+  Marcos Garcia:We can see it
+  Natalia Anna Nowak:yes
+  Etienne David Michel:yes
+  Marcos Garcia:Yes
+  Natalia Anna Nowak:i don't have the box there
+  Pablo Rafael Khouri:make sure the view is set on participant view
+  Natalia Anna Nowak:to write the answer
+  Marcos Garcia:Okay
+  Natalia Anna Nowak:ohhhhhhh
+  Natalia Anna Nowak:okay
+  Pablo Rafael Khouri:thats the problem natalia yours is in presenter view
+  Natalia Anna Nowak:thank pablo!!!
+  Natalia Anna Nowak:now it works
+  Natalia Anna Nowak:you have to change the view
+  Pablo Rafael Khouri:no worries , i had the same issue
+  Irene González:no
+  Maria Gabriela Rey:is it possible if you can minimize the Q &A
+  Etienne David Michel:yes
+  Maria Gabriela Rey:yes
+  Tom Juan Fréreux-Sanchez:yes
+  Irene González:yes
+  Marta García :yes better thanks
+  Etienne David Michel:yes
+  Pablo Rafael Khouri:how did we created the function?
+  Pablo Rafael Khouri:okk no problem
+  Alexandre Ucchino:yes
+  Alexandre Ucchino:SSE
+  Alexandre Ucchino:want me to explain ?
+  Alexandre Ucchino:can u hear me ?
+  Anshumaan Ravi:no
+  Maria Gabriela Rey:no
+  Greta  Ynglada:no
+  Pablo Rafael Khouri:no
+  Etienne David Michel:no
+  Pablo Rafael Khouri:n o
+  Anshumaan Ravi:you haven't switched on your mic
+  Alexandre Ucchino:my mic is on
+  Alexandre Ucchino:yes yes i do
+  Anshumaan Ravi:Okay Alex
+  Isabella Ochoa:Ding
+  Anshumaan Ravi:Also if i remember correctly, with Borja we saw how to estimate these errors using the LSE method using the line of best fit
+  Alexandre Ucchino:SSXY / SS XX
+  Juan Soliveres:yes
+  Carlos Rafael González:i think so
+  Alexandre Ucchino:alex
+  Alexandre Ucchino:sorry
+  Alexandre Ucchino:yes
+  Alexandre Ucchino:i have
+  Alexandre Ucchino:can you go back one slide ?
+  Alexandre Ucchino:can u hear me ?
+  Alexandre Ucchino:anyway
+  Anshumaan Ravi:  no
+  Alexandre Ucchino:for SST
+  Alexandre Ucchino:you take real - mean
+  Alexandre Ucchino:the mean is of the real or of the prediction
+  Alexandre Ucchino:oh ok
+  Alexandre Ucchino:that's it
+  Alexandre Ucchino:no it's fine
+  Carlos Rafael González:can you repeat?
+  Isabella Ochoa:ding
+  Carlos Rafael González:ding
+  Marta García :we reject
+  Sofía Ambrosi:  that there is a relationship between the x variables and the y
+  Alexandre Ucchino:ding
+  Anshumaan Ravi:It means that at least 1 of the factors affect the value of Y
+  Marta García :yes
+  Anshumaan Ravi:yes
+  Anshumaan Ravi:but we called it s
+  Alexandre Ucchino:we call it S
+  Anshumaan Ravi:standard error of the regression model
+  Marta García :i think i now
+  Marta García :but my micro doesnt work
+  Marta García :can i wirte it
+  Marta García :?
+  Marta García :95% of the y values fall within 2 s of their respected predicted values
+  Sofía Ambrosi:what was the question?
+  Isabella Ochoa:is it the error that you have to have?
+  Sofía Ambrosi:square error
+  Goncalo Melo:alex how do i mark my presence i couldn`t put my name in the poll
+  Goncalo Melo:sorry for interupting
+  Alexandre Ucchino:s²  is equal to the variance of thefitted regression model
+  Alexandre Ucchino:s = The square root of the variance
+  Anshumaan Ravi:so it is basically the error of our model's prediction?
+  Anshumaan Ravi:Okay
+  Alexandre Ucchino:i think it is
+  Alexandre Ucchino:if this is the mean of what we expect to have wront is it not the same as r( ² -1 ) ?
+  Alexandre Ucchino:(R²-1)
+  Alexandre Ucchino:since R² is how sure we are about our model
+  Alejandro Martinez 2:Yep, not exactly but this is the interpretation
+  Alejandro Martinez 2:not exactly because we are not using the same formula, here we are not comparing with the null model
+  Alejandro Martinez 2:Im opening the Q&A again so you can write there to check the attendance
+  Goncalo Melo:thanks its done
+  Alexandre Ucchino:sorry i just came back
+  Alexandre Ucchino:okay , thanks
+  Alexandre Ucchino:yes
+  Alexandre Ucchino:everything ok
+  Anshumaan Ravi:yes
+  Isabella Ochoa:yes
+  Marta García :yes
+  Marta García :no
+  Anshumaan Ravi:no
+  Anshumaan Ravi:Alex, I have a question. I am not sure if you will cover this later  but if you want to use your regression model to predict future values, is ti possible?
+  Anshumaan Ravi:Okay, thanks a lot
+  Anshumaan Ravi:Can we use AIC or BIC here?
+  Anshumaan Ravi:Okay, thanks
+  Anshumaan Ravi:what about for values outside the range of the x values ?
+  Anshumaan Ravi:okay
+  Alexandre Ucchino:yes
+  Anshumaan Ravi:yes
+  Anshumaan Ravi:ding
+  Alexandre Ucchino:89.62% of the datza explains the variuability
+  Jose Javier Iglesias:ding
+  Alexandre Ucchino:we can t hear u
+  Marta García :i cant hear you
+  Alexandre Ucchino:thanks you
+  Jose Javier Iglesias:Perfect! Thank you
+  Jose Javier Iglesias:bye
+  Goncalo Melo: bye
+  Maria Gabriela Rey:bye, thank you
+  Greta  Ynglada:byee
+  Natalia Caceres:byee
+  Marta García :ok, thank you
+  Omar-Amine Farih:see you
+  Anshumaan Ravi:see you
+  Felipe Eduardo Espinosa:bye
+  Carlos Rafael González:byeee thank youu
+  Isabella Ochoa:bye
+  Etienne David Michel:thank you
+  Marta García :bye
+  Anshumaan Ravi:bye \
+  Irene González:bye
